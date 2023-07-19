@@ -15,12 +15,12 @@ Before using this project, ensure that you have the following prerequisites:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/ashu0530/terraform-project.git
+   git clone https://github.com/ashu0530/Terraform_Scripts.git
 
 2. Navigate to the project directory:
 
    ```shell
-   cd terraform-project
+   cd Terraform_Scripts
 
 3. Open the variables.tf file and review the default values for the variables. Modify them if needed. Initialize the project
 
